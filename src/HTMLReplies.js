@@ -6,7 +6,7 @@ const help = `
 --------------
 List of commands:
 
-/hello YOUR_CURRENCY - Returns value regarding USD (for example: /hello RUB :=: 70.4)
+/convert YOUR_CURRENCY - Returns value regarding USD (for example: /convert RUB :=: 70.4)
 
 --------------
 `
